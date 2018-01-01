@@ -1,2 +1,2 @@
 # Paint-Application
-A paint program built from scratch. Extends a GUI toolkit and implements a paint application that uses it. All code written in OCaml, a functional programming language.
+A paint program built from scratch. Extends a GUI toolkit and implements a paint application that uses it. This program allows users to draw points, lines, and ellipses, along with a slider to adjust the the thickness of lines. Also allows user to choose from a pallet of nine predetermined colors, with the current color displayed in the bottom left corner. At any point, users can undo their last stroke or quit the program. All code is written in OCaml, a functional programming language.
